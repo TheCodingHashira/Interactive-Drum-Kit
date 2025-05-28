@@ -34,10 +34,6 @@ A fun and interactive drum kit web application that lets you play drums using yo
 - K: Tom 3
 - L: Tom 4
 
-## Live Demo
-
-[Add your GitHub Pages URL here after deployment]
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE). 
