@@ -34,6 +34,10 @@ A fun and interactive drum kit web application that lets you play drums using yo
 - K: Tom 3
 - L: Tom 4
 
+## Live Demo
+
+Check out the live demo: [Interactive Drum Kit](https://interactive-drum-kit.vercel.app/)
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE). 
